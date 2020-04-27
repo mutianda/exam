@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="633a4d96-479e-4470-ad40-a248603e1f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../api/shareDetail/shareDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../router/modules/shareDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/BarChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/BoxCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/LineChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/PanelGroup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/PieChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/RaddarChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/TodoList/Todo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/TodoList/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/TodoList/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/TransactionTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/components/mixins/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shareDetail/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/limitDown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/limitUp.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.env.development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api/todayInfo/todayInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../api/todayInfo/todayInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../router/modules/todayInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../router/modules/todayInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table/inline-edit-table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../table/inline-edit-table.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/LineChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/LineChart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todayDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todayInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todayUp.vue" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-205" />
+    <option name="width" value="1936" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todayInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todayInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633a4d96-479e-4470-ad40-a248603e1f50" name="Default Changelist" comment="" />
+      <created>1587912610833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587912610833</updated>
+      <workItem from="1587912613005" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-320" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
